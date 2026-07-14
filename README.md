@@ -14,7 +14,7 @@ The **COVID-19 India Dashboard** is an interactive Power BI project that visuali
 - Total Recovered
 - Total Deaths
 - Total Population
-- State/UT Filter
+- State
 
 ---
 
